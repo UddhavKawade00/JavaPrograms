@@ -4,7 +4,8 @@ public class Main{
          System.out.println("Output from java program");
          System.out.println("Added one more file ");
           
-        
+        Student st=new Student();
+        st.Sayhello();
         
     }
 }
